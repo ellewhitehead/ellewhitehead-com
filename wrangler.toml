@@ -1,0 +1,9 @@
+name = "ellewhitehead-com"
+type = "webpack"
+account_id = "6fbcbf2cae451fb93814666eec66b6dc"
+workers_dev = true
+route = "ellewhitehead.com/*"
+zone_id = "1d9b34b00a432a235c492b1f7301b339"
+
+[site]
+bucket = "./public"
